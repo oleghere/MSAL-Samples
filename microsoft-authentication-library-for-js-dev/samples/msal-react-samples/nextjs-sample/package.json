@@ -1,9 +1,9 @@
 {
   "name": "next-js-msal-react-sample",
   "engines": {
-    "node": ">=20.14.0"
+    "node": ">=18.17.0"
   },
-  "version": "0.1.0",
+  "version": "0.1.10",
   "private": true,
   "scripts": {
     "dev": "next dev",

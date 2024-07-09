@@ -1,8 +1,5 @@
 {
     "name": "microsoft-authentication-libraries-for-js",
-    "engines": {
-          "node": "20.14.0"
-     },
     "private": true,
     "devDependencies": {
         "@angular/compiler": "^15.2.4",
